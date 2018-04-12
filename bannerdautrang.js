@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.multico.com.vn/vi/wp-content/uploads/2014/08/24012014_23631_PM_Parts-V1.0.jpgss' width='500px'/><br/>13 phụ tùng chính hãng</a>. Liên hệ : 09899199139. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.multico.com.vn/vi/wp-content/uploads/2014/08/24012014_23631_PM_Parts-V1.0.jpg' width='500px'/><br/>13 phụ tùng chính hãng</a>. Liên hệ : 09899199139. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
